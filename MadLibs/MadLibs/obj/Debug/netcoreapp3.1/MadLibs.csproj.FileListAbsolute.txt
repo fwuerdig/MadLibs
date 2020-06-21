@@ -1,0 +1,13 @@
+C:\Projetos\MadLibs\MadLibs\bin\Debug\netcoreapp3.1\MadLibs.exe
+C:\Projetos\MadLibs\MadLibs\bin\Debug\netcoreapp3.1\MadLibs.deps.json
+C:\Projetos\MadLibs\MadLibs\bin\Debug\netcoreapp3.1\MadLibs.runtimeconfig.json
+C:\Projetos\MadLibs\MadLibs\bin\Debug\netcoreapp3.1\MadLibs.runtimeconfig.dev.json
+C:\Projetos\MadLibs\MadLibs\bin\Debug\netcoreapp3.1\MadLibs.dll
+C:\Projetos\MadLibs\MadLibs\bin\Debug\netcoreapp3.1\MadLibs.pdb
+C:\Projetos\MadLibs\MadLibs\obj\Debug\netcoreapp3.1\MadLibs.csprojAssemblyReference.cache
+C:\Projetos\MadLibs\MadLibs\obj\Debug\netcoreapp3.1\MadLibs.AssemblyInfoInputs.cache
+C:\Projetos\MadLibs\MadLibs\obj\Debug\netcoreapp3.1\MadLibs.AssemblyInfo.cs
+C:\Projetos\MadLibs\MadLibs\obj\Debug\netcoreapp3.1\MadLibs.csproj.CoreCompileInputs.cache
+C:\Projetos\MadLibs\MadLibs\obj\Debug\netcoreapp3.1\MadLibs.dll
+C:\Projetos\MadLibs\MadLibs\obj\Debug\netcoreapp3.1\MadLibs.pdb
+C:\Projetos\MadLibs\MadLibs\obj\Debug\netcoreapp3.1\MadLibs.genruntimeconfig.cache
